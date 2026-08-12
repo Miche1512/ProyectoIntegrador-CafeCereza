@@ -9,6 +9,6 @@ Café Cereza es una cafetería consolidada dentro de su comunidad que busca dar 
 
 |Alumno|Matricula|Perfil|
 |---|---|---|
-|Michelle De La Cruz Rosalino|230091|@Miche1512|
+|Michelle De La Cruz Rosalino|230091|https://github.com/Miche1512|
 |Yuleni Gayosso Martinez|230145|@|
 |Jose de Jesus Hernandez Casiaano|230535|@|

@@ -33,7 +33,6 @@ Los clientes de una cafetería, especialmente aquellos con tiempos limitados, ne
 
 Al mismo tiempo, cuando la información relacionada con pedidos, productos, clientes y reservaciones no se encuentra organizada, resulta más difícil utilizarla para conocer el comportamiento del negocio.
 
-Por ello, Café Cereza busca complementar su atención presencial mediante una herramienta digital que permita mejorar el acceso a la información y generar una estructura de datos que pueda aprovecharse posteriormente mediante técnicas de analítica.
 ---
 
 ## Solución propuesta

@@ -131,4 +131,60 @@ Información para la toma de decisiones
 
 De esta manera, la propuesta no se limita únicamente al desarrollo de una página web, sino que busca conectar la **experiencia del cliente, la operación y los datos**.
 
+---
+
+## Estructura del repositorio
+
+El repositorio contiene las evidencias y recursos desarrollados durante el proyecto.
+
+| Sección | Contenido |
+|---|---|
+|  Contexto y objetivos | Problemática, objetivos y preguntas de negocio |
+|  Arquitectura de datos | Entidades, atributos, relaciones y diccionario de datos |
+| Simulación | Reglas de negocio, generación y datasets |
+| Calidad y ETL | Limpieza, transformaciones, validaciones y datasets procesados |
+|  Análisis exploratorio | Estadísticas, tablas, gráficas e interpretaciones |
+|  Análisis de diagnóstico | Pronóstico, segmentación y otros mecanismos analíticos |
+|  KPI | Indicadores, fórmulas, metas y criterios de evaluación |
+
+---
+
+##  Tecnologías y herramientas
+
+Durante el desarrollo del proyecto se utilizan diferentes tecnologías y herramientas para cubrir las áreas de desarrollo web, bases de datos y analítica.
+
+- HTML, CSS y tecnologías web.
+- SQL.
+- Python.
+- Pandas.
+- NumPy.
+- Jupyter Notebook.
+- Git.
+- GitHub.
+- Herramientas de visualización y análisis de datos.
+
+---
+
+##  Valor de la propuesta
+
+Café Cereza busca integrar tecnología y analítica dentro de una misma solución.
+
+### Para los clientes
+
+✔ Acceso rápido a información.  
+✔ Consulta del menú y promociones.  
+✔ Reservaciones y pedidos anticipados.  
+✔ Experiencia digital accesible desde diferentes dispositivos.
+
+### Para Café Cereza
+
+✔ Mayor presencia digital.  
+✔ Información organizada.  
+✔ Datos preparados para análisis.  
+✔ Identificación de patrones y tendencias.  
+✔ Seguimiento mediante indicadores.  
+✔ Mayor soporte para la toma de decisiones.
+
+---
+
 

@@ -11,4 +11,4 @@ Café Cereza es una cafetería consolidada dentro de su comunidad que busca dar 
 |---|---|---|
 |Michelle De La Cruz Rosalino|230091|@Miche1512|
 |Yuleni Gayosso Martinez|230145|@ChuyDis231|
-|Jose de Jesus Hernandez Casiaano|230535|@|
+|Jose de Jesus Hernandez Casiaano|230535|@Yule Martinez|

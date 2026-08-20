@@ -77,3 +77,58 @@ Antes de realizar los análisis, los datos pasan por procesos de revisión, limp
 
 Esto permite trabajar aspectos como valores nulos, duplicados, formatos, consistencia e integridad de los registros.
 
+
+### Analítica de datos
+
+A partir de los datos preparados se realizan análisis que permiten estudiar:
+
+- Comportamiento de las ventas.
+- Productos y categorías.
+- Horarios de mayor actividad.
+- Canales de venta.
+- Comportamiento temporal.
+- Tendencias y estacionalidad.
+- Segmentación de clientes.
+- Asociaciones entre productos.
+- Estimaciones de demanda.
+
+> **Nota:** los datos utilizados para desarrollar y validar la parte analítica del proyecto son simulados bajo reglas de negocio, por lo que los resultados representan el comportamiento del dataset construido y no ventas históricas reales de Café Cereza.
+
+### Indicadores de desempeño
+
+El proyecto también contempla KPI que permiten resumir información relevante para el negocio, como:
+
+- Ticket promedio.
+- Cantidad de pedidos.
+- Productos más vendidos.
+- Tasa de cancelación.
+- Tiempo de entrega.
+- Otros indicadores relacionados con el desempeño de Café Cereza.
+
+---
+
+## ¿Cómo funciona la propuesta?
+
+El proyecto puede entenderse mediante el siguiente flujo:
+
+```text
+Cliente
+   ↓
+Página web
+   ↓
+Pedidos y reservaciones
+   ↓
+Base de datos
+   ↓
+Preparación y validación
+   ↓
+Análisis de datos
+   ↓
+Indicadores
+   ↓
+Información para la toma de decisiones
+```
+
+De esta manera, la propuesta no se limita únicamente al desarrollo de una página web, sino que busca conectar la **experiencia del cliente, la operación y los datos**.
+
+

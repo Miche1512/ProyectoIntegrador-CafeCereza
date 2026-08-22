@@ -30,7 +30,7 @@ Además, la información generada permite construir una base para analizar el co
   <tbody>
     <tr>
       <td align="center">
-        <img src="/Imagenes/230091_Michelle" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230091_Michelle.jpg" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>Michelle de la Cruz Rosalino</td>
       <td>Scrum Master</td>
@@ -38,7 +38,7 @@ Además, la información generada permite construir una base para analizar el co
     </tr>
     <tr>
       <td align="center">
-        <img src="/Imagenes/230145_Yuleni" alt="Yuleni" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230145_Yuleni.jpg" alt="Yuleni" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>Yuleni Gayosso Martínez</td>
       <td>Desarrollador Backend, UX/UI</td>
@@ -46,7 +46,7 @@ Además, la información generada permite construir una base para analizar el co
     </tr>
     <tr>
       <td align="center">
-        <img src="/Imagenes/230535_Chuy" alt="José" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230535_Chuy.jpg" alt="José" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>José de Jesús Hernández Casiano</td>
       <td>Product Owner</td>

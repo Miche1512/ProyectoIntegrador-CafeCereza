@@ -30,7 +30,7 @@ Además, la información generada permite construir una base para analizar el co
   <tbody>
     <tr>
       <td align="center">
-        <img src="Recursos/fotos/230091_Michelle" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230091_Michelle" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>Michelle de la Cruz Rosalino</td>
       <td>Scrum Master</td>
@@ -38,7 +38,7 @@ Además, la información generada permite construir una base para analizar el co
     </tr>
     <tr>
       <td align="center">
-        <img src="Recursos/fotos/230145_Yuleni" alt="Yuleni" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230145_Yuleni" alt="Yuleni" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>Yuleni Gayosso Martínez</td>
       <td>Desarrollador Backend, UX/UI</td>
@@ -46,7 +46,7 @@ Además, la información generada permite construir una base para analizar el co
     </tr>
     <tr>
       <td align="center">
-        <img src="Recursos/fotos/230535_Chuy" alt="José" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230535_Chuy" alt="José" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>José de Jesús Hernández Casiano</td>
       <td>Product Owner</td>
@@ -54,6 +54,8 @@ Además, la información generada permite construir una base para analizar el co
     </tr>
   </tbody>
 </table>
+
+---
 
 ## Objetivo del proyecto
 
@@ -186,6 +188,33 @@ El repositorio contiene las evidencias y recursos desarrollados durante el proye
 |  Análisis exploratorio | Estadísticas, tablas, gráficas e interpretaciones |
 |  Análisis de diagnóstico | Pronóstico, segmentación y otros mecanismos analíticos |
 |  KPI | Indicadores, fórmulas, metas y criterios de evaluación |
+
+---
+
+## Diagrama de Gantt
+
+```mermaid
+gantt
+    title Cronograma del Proyecto Cafe-Cereza
+    dateFormat YYYY-MM-DD
+    axisFormat %d/%m
+
+    section Planificación
+    Definición del proyecto        :a1, 2026-06-29, 2026-07-03
+    Asignación de roles            :a2, 2026-07-06, 2026-07-10
+
+    section Diseño y UX UI
+    Wireframes y prototipos        :b1, 2026-07-13, 2026-07-23
+    Revisión con Product Owner     :b2, 2026-07-20, 2026-07-25
+
+    section Desarrollo
+    Configuración de Base de Datos :c1, 2026-07-27, 2026-08-07
+    Desarrollo Backend             :c2, 2026-08-03, 2026-08-14
+
+    section Entrega
+    Pruebas y correcciones         :d1, 2026-08-10, 2026-08-19
+    Entrega final                  :milestone, m1, 2026-08-21, 0d
+```
 
 ---
 

@@ -256,17 +256,6 @@ Café Cereza busca integrar tecnología y analítica dentro de una misma soluci�
 
 ---
 
-
-##  Equipo de trabajo
-
-| Alumno | Matrícula | GitHub |
-|---|---:|---|
-| Michelle De La Cruz Rosalino | 230091 | @Miche1512 |
-| Yuleni Gayosso Martinez | 230145 | @ChuyDis231 |
-| Jose de Jesus Hernandez Casiaano | 230535 | @Yule-Martinez |
-
----
-
 ##  Información académica
 
 **Proyecto Integrador**  
@@ -274,6 +263,8 @@ Tecnologías de la Información — Entornos Virtuales y Negocios Digitales
 Universidad Tecnológica de Xicotepec de Juárez
 
 ---
+
+##  Dashboard CafeCereza Administrador
 
 <p align="center">
   <b> Café Cereza</b><br>

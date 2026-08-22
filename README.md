@@ -15,6 +15,46 @@ Además, la información generada permite construir una base para analizar el co
 
 ---
 
+</div>
+<h3 align="center">Organigrama del Proyecto Cafe-Cereza</h3>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Foto</th>
+      <th align="left">Integrante</th>
+      <th align="left">Rol Scrum</th>
+      <th align="center">Matrícula</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="Recursos/fotos/230091_Michelle" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
+      </td>
+      <td>Michelle de la Cruz Rosalino</td>
+      <td>Scrum Master</td>
+      <td align="center">230091</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Recursos/fotos/230145_Yuleni" alt="Yuleni" width="100" height="100" style="border-radius: 50%;">
+      </td>
+      <td>Yuleni Gayosso Martínez</td>
+      <td>Desarrollador Backend, UX/UI</td>
+      <td align="center">230145</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Recursos/fotos/230535_Chuy" alt="José" width="100" height="100" style="border-radius: 50%;">
+      </td>
+      <td>José de Jesús Hernández Casiano</td>
+      <td>Product Owner</td>
+      <td align="center">230535</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Objetivo del proyecto
 
 Desarrollar una solución digital para Café Cereza que facilite la interacción entre la cafetería y sus clientes mediante una página web moderna y responsiva, mientras se aprovechan los datos relacionados con ventas, productos, clientes, pedidos y reservaciones para generar información útil para el negocio.

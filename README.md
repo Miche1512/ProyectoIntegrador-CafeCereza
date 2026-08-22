@@ -266,11 +266,26 @@ Universidad Tecnológica de Xicotepec de Juárez
 
 ##  Dashboard CafeCereza Administrador
 
+El dashboard administrativo de **Café Cereza** fue diseñado para visualizar de manera clara y organizada la información más relevante del negocio.
+
+Permite consultar indicadores relacionados con ventas, pedidos, productos y comportamiento general de la cafetería, facilitando la interpretación de los datos y apoyando la toma de decisiones.
+
+### Vista general
+
 <p align="center">
-  <b> Café Cereza</b><br>
-  <i>Experiencia digital, datos y decisiones.</i>
+  <img src="Imagenes/D1.png" alt="Dashboard Café Cereza - Vista General" width="900">
 </p>
 
+### Análisis de ventas
 
+<p align="center">
+  <img src="Imagenes/D2.png" alt="Dashboard Café Cereza - Análisis de Ventas" width="900">
+</p>
 
+### Detalle de información
 
+<p align="center">
+  <img src="Imagenes/D3.png" alt="Dashboard Café Cereza - Detalle de Información" width="900">
+</p>
+
+---

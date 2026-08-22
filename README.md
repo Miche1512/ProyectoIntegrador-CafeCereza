@@ -30,7 +30,7 @@ Además, la información generada permite construir una base para analizar el co
   <tbody>
     <tr>
       <td align="center">
-        <img src="/Imagenes/230091_Michelle.jpg" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
+        <img src="/Imagenes/230092_Michelle.jpg" alt="Michelle" width="100" height="100" style="border-radius: 50%;">
       </td>
       <td>Michelle de la Cruz Rosalino</td>
       <td>Scrum Master</td>
